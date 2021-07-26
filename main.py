@@ -31,4 +31,4 @@ while True:
     pybytes.send_signal(1, celsius)
     print("sending: {}".format(celsius))
     
-    time.sleep(300)  # wait 5 min
+    time.sleep(1800)  # wait 30 min
